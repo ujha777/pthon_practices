@@ -16,3 +16,6 @@ print("{} {}".format("Value is", d))
 print(type(b))
 print(type(c))
 print(type(d))
+
+x, y, z = 10, 20, 30
+print(x+y+z)
