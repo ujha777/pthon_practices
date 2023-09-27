@@ -17,5 +17,5 @@ print(type(b))
 print(type(c))
 print(type(d))
 
-x, y, z = 10, 20, 30
+x, y, z = 10, 20, 300
 print(x+y+z)
